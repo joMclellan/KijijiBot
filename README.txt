@@ -1,0 +1,1 @@
+This is a simple project I made for an interview at Setter. The script injects a login to kjiji and then posts an advertisement as defined in the textfiles.
